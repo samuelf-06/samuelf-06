@@ -18,6 +18,7 @@ Aqui estão algumas das linguagens de programação e ferramentas com as quais t
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 ## 📚 Projetos Acadêmicos e Pessoais
 
