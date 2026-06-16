@@ -1,27 +1,39 @@
-# 👋 Bem-vindo ao Meu Perfil!
+# Hi, I'm Samuel Ferreira
 
-Sou estudante de Engenharia Informática na Universidade do Minho.
+Computer Science graduate from Universidade do Minho, currently looking for my first opportunity as a Junior Software Developer.
 
-## 💻 Interesses
+I have experience with academic and personal projects involving web development, client-server systems, cybersecurity, artificial intelligence, compilers and databases.
 
-- Desenvolvimento de software
-- Inteligência artificial e machine learning
-- Sistemas distribuídos
-- Segurança da informação
+## Main interests
 
-## 🌱 Tecnologias & Ferramentas
+- Backend development
+- Full-stack development
+- Software engineering
+- Cybersecurity
+- Artificial Intelligence
 
-Aqui estão algumas das linguagens de programação e ferramentas com as quais trabalho:
+## Technologies
 
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+**Languages:** Python, Java, C, C++, JavaScript, SQL  
+**Web:** React, Vue.js, HTML, CSS, REST APIs  
+**Tools:** Git, Linux, Docker  
+**Other:** OpenGL, Cryptography, Compilers, AI algorithms
 
-## 📚 Projetos Acadêmicos e Pessoais
+## Featured Projects
 
-Tenho trabalhado em diversos projetos durante o meu curso, desde pequenas aplicações até sistemas mais complexos, focando sempre na aplicação prática dos conhecimentos adquiridos.
+### AI Fleet Simulation
+Python project involving graph search algorithms such as BFS, DFS, Greedy and A*, applied to a taxi fleet simulation.
 
+### Pascal Compiler
+Compiler developed in Python using lexical/syntactic analysis and code generation concepts.
 
+### Database Project
+Relational database project with SQL scripts, queries, views, procedures, functions and triggers.
+
+### Secure Communication Project
+Client-server project focused on secure communication, cryptography and data protection.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/samuel-ferreira17122003/
+- Email: samu21.m.ferreira@hotmail.com
