@@ -16,10 +16,12 @@ My main interests are backend development, full-stack development, software engi
 
 ## Technologies
 
-**Languages:** Python, Java, C, C++, JavaScript, SQL  
-**Web:** React, Vue.js, HTML, CSS, REST APIs  
-**Backend/Tools:** Git, Linux, Docker, NestJS, MongoDB
-**Other:** Cryptography, Compilers, OpenGL, AI algorithms, relational databases
+- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL
+- **Frontend:** React, Vue.js, HTML, CSS
+- **Backend:** NestJS, Node.js, REST APIs, JWT Authentication
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Linux, Docker
+- **Other:** Cryptography, Compilers, OpenGL, AI algorithms, Operating Systems concepts
 
 ## Featured Projects
 
